@@ -122,11 +122,6 @@ img{
    
 }
 
-.product:active .heart{
-    color: red;
-    
-}
-
 .product:hover .sconto{
     background-color: rgb(37, 57, 172);
     color:rgb(214, 196, 28);
@@ -135,5 +130,10 @@ img{
 .product:hover .categoria{
     background-color: rgb(145, 75, 10);
     color: rgb(199, 80, 33);
+}
+
+.product:active .heart{
+    color: red;
+    
 }
 
